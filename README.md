@@ -1,9 +1,5 @@
 # College Mangement System
 
-<p align="center">
-<img src="https://imgur.com/a/u00SrN3">
-</p>
-
 # Step 1: Write and apply the CREATE scripts
 
 Use the above diagram to devise CREATE statements to create the tables required for this exercise. Order your CREATE statements as needed so that all foreign key definitions execute without error. Please think about each field and add NOT NULL constraints where appropriate.
